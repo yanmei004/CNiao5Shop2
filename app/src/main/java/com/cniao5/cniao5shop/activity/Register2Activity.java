@@ -11,7 +11,6 @@ import com.cniao5.cniao5shop.MainActivity;
 import com.cniao5.cniao5shop.MyApplication;
 import com.cniao5.cniao5shop.R;
 import com.cniao5.cniao5shop.bean.User;
-import com.cniao5.cniao5shop.http.OkHttpHelper;
 import com.cniao5.cniao5shop.msg.LoginRespMsg;
 import com.cniao5.cniao5shop.net.ServiceGenerator;
 import com.cniao5.cniao5shop.net.SubscriberCallBack;
@@ -24,9 +23,6 @@ import com.cniao5.cniao5shop.widget.Constants;
 import com.lidroid.xutils.view.annotation.ViewInject;
 
 import org.json.JSONObject;
-
-import java.util.HashMap;
-import java.util.Map;
 
 import cn.smssdk.EventHandler;
 import cn.smssdk.SMSSDK;

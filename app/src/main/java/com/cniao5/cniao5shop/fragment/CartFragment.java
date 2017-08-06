@@ -13,7 +13,6 @@ import com.cniao5.cniao5shop.activity.NewOrderActivity;
 import com.cniao5.cniao5shop.adapter.CartAdapter;
 import com.cniao5.cniao5shop.adapter.decoration.DividerItemDecortion;
 import com.cniao5.cniao5shop.bean.ShoppingCart;
-import com.cniao5.cniao5shop.http.OkHttpHelper;
 import com.cniao5.cniao5shop.utils.CartProvider;
 import com.cniao5.cniao5shop.utils.ToastUtils;
 import com.cniao5.cniao5shop.widget.Constants;
@@ -49,11 +48,7 @@ public class CartFragment extends BaseFragment implements View.OnClickListener {
     private static final int ACTION_CAMPLATE = 2;
 
     private CartProvider mCartProvider;
-
     private CartAdapter mAdapter;
-
-    private OkHttpHelper okHttpHelper = OkHttpHelper.getInstance();
-
 
     @Override
     public void setToolbar() {

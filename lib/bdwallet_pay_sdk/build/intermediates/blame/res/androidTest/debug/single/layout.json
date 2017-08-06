@@ -4,8 +4,20 @@
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_activity_welcome.xml"
     },
     {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/bd_wallet_sign_bank_info.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/bd_wallet_sign_bank_info.xml"
+    },
+    {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_pwdpay_payment_select_item.xml",
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_pwdpay_payment_select_item.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_toast.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_toast.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_activity_welcome.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_activity_welcome.xml"
     },
     {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_bind_card_no.xml",
@@ -16,12 +28,12 @@
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_action_bar.xml"
     },
     {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_dialog_notitle.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_dialog_notitle.xml"
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_update_layout_dialog_base.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_update_layout_dialog_base.xml"
     },
     {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_plugin.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_plugin.xml"
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_dialog_notitle.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_dialog_notitle.xml"
     },
     {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_sectips.xml",
@@ -36,24 +48,20 @@
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_update_layout_dialog_base.xml"
     },
     {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_base_bind.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_base_bind.xml"
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_action_bar.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_action_bar.xml"
     },
     {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_pluginl_detail.xml",
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_pluginl_detail.xml"
     },
     {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_list_item_bond_card_select.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_list_item_bond_card_select.xml"
-    },
-    {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_pc_pass.xml",
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_pc_pass.xml"
     },
     {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_bind_card_detail.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_bind_card_detail.xml"
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_bind_creditcard_detail.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_bind_creditcard_detail.xml"
     },
     {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_abc_sms.xml",
@@ -64,36 +72,20 @@
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_activity_bind_sms.xml"
     },
     {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_bond_card_view.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_bond_card_view.xml"
-    },
-    {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_activity_order_home.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_activity_order_home.xml"
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/bd_wallet_sign_channel_page.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/bd_wallet_sign_channel_page.xml"
     },
     {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_view_six_pwd.xml",
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_view_six_pwd.xml"
     },
     {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_view_title_bar.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_view_title_bar.xml"
-    },
-    {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_set_pwd.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_set_pwd.xml"
-    },
-    {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_pay_result_benefit.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_pay_result_benefit.xml"
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_activity_bind_sms.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_activity_bind_sms.xml"
     },
     {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_one_key_tip_layout.xml",
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_one_key_tip_layout.xml"
-    },
-    {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_dialog_tip.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_dialog_tip.xml"
     },
     {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_layout_dialog_base.xml",
@@ -104,40 +96,72 @@
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_pwdpay_payment_select.xml"
     },
     {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_layout_loading_dialog.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_layout_loading_dialog.xml"
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_setandconfirm_pwd.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_setandconfirm_pwd.xml"
     },
     {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/bd_wallet_sign_channel_list.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/bd_wallet_sign_channel_list.xml"
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_layout_dialog_base.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_layout_dialog_base.xml"
     },
     {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_webview.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_webview.xml"
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_login.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_login.xml"
     },
     {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_select_balance_dialog.xml",
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_select_balance_dialog.xml"
     },
     {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_select_balance_dialog.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_select_balance_dialog.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_dialog_tip.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_dialog_tip.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/bd_wallet_sign_channel_list.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/bd_wallet_sign_channel_list.xml"
+    },
+    {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/bd_wallet_sign_bank_info.xml",
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/bd_wallet_sign_bank_info.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_layout_loading_dialog.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_layout_loading_dialog.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_menu_item_view.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_menu_item_view.xml"
     },
     {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_bind_creditcard_detail.xml",
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_bind_creditcard_detail.xml"
     },
     {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_base_bind.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_base_bind.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_one_key_pay.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_one_key_pay.xml"
+    },
+    {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_pwdpay_activity.xml",
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_pwdpay_activity.xml"
     },
     {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_login.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_login.xml"
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_webview.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_webview.xml"
     },
     {
-        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_discount_item.xml",
-        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_discount_item.xml"
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_view_title_bar.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_view_title_bar.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_activity_order_home.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_activity_order_home.xml"
     },
     {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_toast.xml",
@@ -152,12 +176,152 @@
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_one_key_pay.xml"
     },
     {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_sectips.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_sectips.xml"
+    },
+    {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_menu_item_view.xml",
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_menu_item_view.xml"
     },
     {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/bd_wallet_sign_channel_page.xml",
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/bd_wallet_sign_channel_page.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_activity_pay_result.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_activity_pay_result.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_bind_card_no.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_bind_card_no.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_dialog_notitle.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_dialog_notitle.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_plugin.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_plugin.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_pwdpay_payment_select_item.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_pwdpay_payment_select_item.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_base_bind.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_base_bind.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_plugin.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_plugin.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_list_item_bond_card_select.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_list_item_bond_card_select.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_bind_card_detail.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_bind_card_detail.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_bind_card_detail.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_bind_card_detail.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_dialog_image.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_dialog_image.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_bond_card_view.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_bond_card_view.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_activity_order_home.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_activity_order_home.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_view_title_bar.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_view_title_bar.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_bond_card_view.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_bond_card_view.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_discount_item.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_discount_item.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_one_key_tip_layout.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_one_key_tip_layout.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_pwdpay_payment_select.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_pwdpay_payment_select.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_set_pwd.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_set_pwd.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_pay_result_benefit.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_pay_result_benefit.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_pay_result_benefit.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_pay_result_benefit.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_dialog_tip.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_dialog_tip.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_layout_loading_dialog.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_layout_loading_dialog.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/bd_wallet_sign_channel_list.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/bd_wallet_sign_channel_list.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_webview.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_webview.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_set_pwd.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_set_pwd.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_pluginl_detail.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_pluginl_detail.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_pwdpay_activity.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_pwdpay_activity.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_pc_pass.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_pc_pass.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/wallet_base_view_six_pwd.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/wallet_base_view_six_pwd.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_login.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_login.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_list_item_bond_card_select.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_list_item_bond_card_select.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_discount_item.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_discount_item.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_abc_sms.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/layout/ebpay_layout_abc_sms.xml"
     },
     {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/layout/ebpay_layout_setandconfirm_pwd.xml",

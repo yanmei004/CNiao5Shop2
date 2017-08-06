@@ -4,8 +4,28 @@
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_next.png"
     },
     {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_radio_bg.png",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_radio_bg.png"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_next.png",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_next.png"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_check_disable.png",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_check_disable.png"
+    },
+    {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/wallet_base_indicator_arrow.png",
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/wallet_base_indicator_arrow.png"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_check_sel.png",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_check_sel.png"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/wallet_base_indicator_arrow.png",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/wallet_base_indicator_arrow.png"
     },
     {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_check_bg.png",
@@ -22,6 +42,14 @@
     {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_check_sel.png",
         "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_check_sel.png"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_check_bg.png",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_check_bg.png"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_radio_sel.png",
+        "source": "/Users/admin/AndroidStudioProjects/CaiNiao5Shop/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_radio_sel.png"
     },
     {
         "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_radio_sel.png",

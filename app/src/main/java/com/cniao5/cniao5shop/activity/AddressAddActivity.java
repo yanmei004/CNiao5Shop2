@@ -63,9 +63,11 @@ public class AddressAddActivity extends BaseActivity {
     @Override
     public void init() {
         context = AddressAddActivity.this;
-        TAG = getIntent().getIntExtra("tag", -1);
-        final Address address = (Address) getIntent().getExtras().getSerializable("addressBean");
-        initAddress(address);
+
+        /**
+         * 初始化省市数据
+         */
+        initJsonData();
     }
 
     @Override
@@ -73,7 +75,19 @@ public class AddressAddActivity extends BaseActivity {
         /**
          * 根据传入的TAG，toolbar显示相应布局
          */
+        TAG = getIntent().getIntExtra("tag", -1);
 
+        final Address address = (Address) getIntent().getExtras().getSerializable("addressBean");
+        if (TAG == Constants.TAG_SAVE) {
+            getToolbar().getRightButton().setText("保存");
+            getToolbar().setTitle("添加新地址");
+            getToolbar().setleftButtonIcon(R.drawable.icon_back_32px);
+        } else if (TAG == Constants.TAG_COMPLETE) {
+            getToolbar().getRightButton().setText("完成");
+            getToolbar().setTitle("编辑地址");
+            getToolbar().setleftButtonIcon(R.drawable.icon_back_32px);
+            showAddress(address);
+        }
         getToolbar().setRightButtonOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -315,28 +329,6 @@ public class AddressAddActivity extends BaseActivity {
             e.printStackTrace();
         }
         return detail;
-    }
-
-    /**
-     * 初始化地址数据
-     */
-    private void initAddress(Address address) {
-
-        if (TAG == Constants.TAG_SAVE) {
-            getToolbar().getRightButton().setText("保存");
-            getToolbar().setTitle("添加新地址");
-            getToolbar().setleftButtonIcon(R.drawable.icon_back_32px);
-        } else if (TAG == Constants.TAG_COMPLETE) {
-            getToolbar().getRightButton().setText("完成");
-            getToolbar().setTitle("编辑地址");
-            getToolbar().setleftButtonIcon(R.drawable.icon_back_32px);
-            showAddress(address);
-        }
-
-        /**
-         * 初始化省市数据
-         */
-        initJsonData();
     }
 
     @OnClick(R.id.ll_city_picker)

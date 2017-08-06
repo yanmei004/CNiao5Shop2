@@ -13,7 +13,6 @@ import com.cjj.MaterialRefreshListener;
 import com.cniao5.cniao5shop.R;
 import com.cniao5.cniao5shop.adapter.BaseAdapter;
 import com.cniao5.cniao5shop.adapter.HWAdapter;
-import com.cniao5.cniao5shop.adapter.decoration.DividerItemDecortion;
 import com.cniao5.cniao5shop.bean.Page;
 import com.cniao5.cniao5shop.bean.Wares;
 import com.cniao5.cniao5shop.net.ServiceGenerator;
@@ -94,6 +93,7 @@ public class WaresListActivity extends BaseActivity implements TabLayout.OnTabSe
         getToolbar().getRightButton().setTag(ACTION_LIST);
         getToolbar().setRightButtonOnClickListener(this);
         getToolbar().setleftButtonIcon(R.drawable.icon_back_32px);
+        getToolbar().getRightButton();
     }
 
     private void getData() {

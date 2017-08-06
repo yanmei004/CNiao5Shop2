@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<!--我的Fragment布局-->
+
+    <FrameLayout
+        android:background="?attr/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="160dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profile_image"
+            android:layout_width="96dp"
+            android:layout_height="96dp"
+            android:src="@drawable/default_head"
+            android:layout_gravity="center"
+            app:civ_border_width="2dp"
+            app:civ_border_color="#FFFFFF"/>
+
+        <TextView
+            android:id="@+id/tv_username"
+            android:layout_gravity="center"
+            android:layout_marginTop="70dp"
+            android:text="点击登录"
+            android:textColor="@color/white"
+            android:layout_marginBottom="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </FrameLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_marginTop="20dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:padding="@dimen/largePadding"
+                android:background="@drawable/selector_list_item"
+                android:drawableLeft="@drawable/icon_list_o"
+                android:gravity="center_vertical"
+                android:drawablePadding="20dp"
+                android:text="@string/my_orders"
+                android:id="@+id/tv_my_order"
+                android:textColor="@color/black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <View
+                style="@style/line_horizontal"/>
+
+            <TextView
+                android:padding="@dimen/largePadding"
+                android:background="@drawable/selector_list_item"
+                android:drawableLeft="@drawable/icon_favorite"
+                android:gravity="center_vertical"
+                android:drawablePadding="20dp"
+                android:text="@string/my_favorite"
+                android:id="@+id/tv_favorite"
+                android:textColor="@color/black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <View
+                style="@style/line_horizontal"/>
+
+            <TextView
+                android:id="@+id/tv_addr"
+                android:padding="@dimen/largePadding"
+                android:background="@drawable/selector_list_item"
+                android:drawableLeft="@drawable/icon_location"
+                android:gravity="center_vertical"
+                android:drawablePadding="20dp"
+                android:text="@string/my_address"
+                android:textColor="@color/black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:layout_margin="20dp"
+        android:id="@+id/btn_loginOut"
+        style="@style/bigRedButton"
+        android:text="退出登录"
+        android:textSize="16sp"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

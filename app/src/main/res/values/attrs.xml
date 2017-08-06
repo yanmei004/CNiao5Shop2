@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CnToolbar">
+        <attr name="RightButtonText" format="string"/>
+        <attr name="RightImgButtonIcon" format="reference"/>
+        <attr name="isShowSearchView" format="boolean"/>
+        <attr name="leftButtonIcon" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="NumberAddSubView">
+        <attr name="value" format="integer|reference"/>
+        <attr name="minvalue" format="integer|reference"/>
+        <attr name="maxvalue" format="integer|reference"/>
+        <attr name="btnAddBackground" format="reference"/>
+        <attr name="btnSubBackground" format="reference"/>
+        <attr name="textViewBackground" format="reference"/>
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:background="@drawable/selector_list_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <CheckBox
+        android:id="@+id/checkbox"
+        android:focusable="false"
+        android:clickable="false"
+        style="@style/customCheckbox"
+        android:layout_gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- 图片-->
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/drawee_view_cart"
+            android:layout_gravity="center_vertical"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_marginLeft="5dp"
+            android:padding="5dp"
+            android:minHeight="75dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- 商品标题-->
+            <TextView
+                android:id="@+id/tv_title_cart"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/gray"
+                android:textSize="14sp"
+                android:maxLines="3"
+                android:lines="3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="title" />
+
+            <!-- 商品价格-->
+            <TextView
+                android:id="@+id/tv_price_cart"
+                android:textSize="18sp"
+                android:text="￥ 999"
+                android:textColor="@color/crimson"
+                android:layout_gravity="right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <!-- 加减控件-->
+            <com.cniao5.cniao5shop.widget.NumberAddSubView
+                app:minvalue="1"
+                app:maxvalue="100"
+                app:btnAddBackground="@drawable/bg_btn_style_white"
+                app:btnSubBackground="@drawable/bg_btn_style_white"
+                app:textViewBackground="@drawable/textview_border"
+                android:layout_marginTop="5dp"
+                android:id="@+id/add_sub_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

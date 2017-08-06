@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">菜鸟商城</string>
+    <string name="home">主页</string>
+    <string name="hot">热卖</string>
+    <string name="catagory">分类</string>
+    <string name="cart">购物车</string>
+    <string name="mine">我的</string>
+    <string name="edit">编辑</string>
+    <string name="cart_title">购物车</string>
+    <string name="select_all">全选</string>
+    <string name="total">总计</string>
+    <string name="accounts">去结算</string>
+    <string name="delete">删除</string>
+    <string name="has_add_cart">已添加到购物车</string>
+    <string name="wares_details">商品详情</string>
+    <string name="wares_list">商品列表</string>
+    <string name="defaults">默认</string>
+    <string name="sales">销量</string>
+    <string name="price">价格</string>
+    <string name="title_activity_wares_details">WaresDetailsActivity</string>
+    <string name="share">分享</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login">登录</string>
+    <string name="to_login">点击登录</string>
+    <string name="user_login">用户登录</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_new_order">NewOrderActivity</string>
+    <string name="token_error">校验失效，请重新登录</string>
+    <string name="title_activity_register">注册</string>
+    <string name="title_activity_register2">Register2Activity</string>
+    <string name="title_activity_create_order">CreateOrderActivity</string>
+    <string name="title_activity_pay_result">PayResultActivity</string>
+    <string name="title_activity_address_list">AddressListActivity</string>
+    <string name="title_activity_address_add">AddressAddActivity</string>
+    <string name="my_orders">我的订单</string>
+    <string name="my_favorite">我喜欢</string>
+    <string name="my_address">我的地址</string>
+    <string name="has_add_favorite">已添加到收藏夹</string>
+    <string name="title_activity_my_favorite">MyFavoriteActivity</string>
+    <string name="title_activity_dialog">DialogActivity</string>
+    <string name="cancel">取消</string>
+    <string name="determine">确定</string>
+
+</resources>

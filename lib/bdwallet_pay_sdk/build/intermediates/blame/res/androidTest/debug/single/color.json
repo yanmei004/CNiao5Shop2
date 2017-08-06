@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/color/wallet_base_click_text_color.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/color/wallet_base_click_text_color.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/color/wallet_base_dialog_btntext_color_selector.xml",
+        "source": "/Users/admin/AndroidStudioProjects/CNiao5Shop-master/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/color/wallet_base_dialog_btntext_color_selector.xml"
+    }
+]

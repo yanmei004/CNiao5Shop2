@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:background="@drawable/selector_list_item"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <!-- 分类左部列表导航文字布局-->
+    <TextView
+        android:textSize="16sp"
+        android:textColor="@color/selector_tab_text"
+        android:id="@+id/tv_category"
+        android:text="title"
+        android:layout_width="70dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content" />
+</LinearLayout>

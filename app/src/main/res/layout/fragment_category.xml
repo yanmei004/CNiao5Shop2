@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--分类Fragment -->
+
+    <com.cniao5.cniao5shop.widget.CnToolbar
+        android:id="@+id/toolbar_search_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        app:contentInsetEnd="56dp"
+        app:isShowSearchView="false"
+        app:title="分类"
+        android:layout_alignParentTop="true"
+        />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <!-- 左部文字树形导航-->
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerview_category"
+            android:layout_width="@dimen/category_layout_width"
+            android:layout_height="fill_parent"
+            android:background="@color/white">
+
+        </android.support.v7.widget.RecyclerView>
+
+        <LinearLayout
+            android:layout_marginLeft="2dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <!-- 轮播图-->
+            <com.daimajia.slider.library.SliderLayout
+                android:id="@+id/sliderlayout_category"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                app:pager_animation="Accordion"
+                app:auto_cycle="true"
+                app:indicator_visibility="visible"
+                app:pager_animation_span="1100"/>
+
+            <!-- 分类商品列表刷新-->
+            <com.cjj.MaterialRefreshLayout
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:overlay="true"
+                app:wave_show="true"
+                app:wave_color="#90ffffff"
+                app:progress_colors="@array/material_colors"
+                app:wave_height_type="higher"
+                android:id="@+id/refreshlayout_category"
+                >
+
+                <!-- 分类商品列表-->
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/recyclerview_category_wares"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                </android.support.v7.widget.RecyclerView>
+
+            </com.cjj.MaterialRefreshLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
